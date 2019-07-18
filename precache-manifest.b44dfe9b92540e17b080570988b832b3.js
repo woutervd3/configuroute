@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a5edd16cc8ea4b016f650c22fd783fba",
+    "revision": "da3e4d19b5dea1ebe5602c4d443d866a",
     "url": "/configuroute/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/configuroute/static/css/2.6639d161.chunk.css"
   },
   {
-    "revision": "7d4092f58c1ea05909a1",
+    "revision": "523d3343180b49c06d7e",
     "url": "/configuroute/static/css/main.22499656.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/configuroute/static/js/2.363d8612.chunk.js"
   },
   {
-    "revision": "7d4092f58c1ea05909a1",
-    "url": "/configuroute/static/js/main.96efe75e.chunk.js"
+    "revision": "523d3343180b49c06d7e",
+    "url": "/configuroute/static/js/main.741787b9.chunk.js"
   },
   {
     "revision": "e1d580cf93e431b2567c",
